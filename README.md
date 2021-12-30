@@ -11,7 +11,7 @@ npm run
 
 - React
 
-#### ackages
+#### Packages
 
 - Node.js
 
